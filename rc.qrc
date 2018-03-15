@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>material/board.jpg</file>
+    </qresource>
+</RCC>
